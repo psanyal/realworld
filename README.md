@@ -43,7 +43,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     14: Hyperapp 1
     15: Crizmas MVC
 -->
-> _Sorted by popularity on Tue Nov 13 2018_
+> _Sorted by popularity on Fri Nov 16 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -105,7 +105,7 @@ Work In Progress:
     25: Go / Echo
     26: Express w/ Bookshelf.js
 -->
-> _Sorted by popularity on Tue Nov 13 2018_
+> _Sorted by popularity on Fri Nov 16 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -163,7 +163,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Tue Nov 13 2018_
+> _Sorted by popularity on Fri Nov 16 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
